@@ -17,6 +17,8 @@ Here are some ideas to get you started:
 <h2>I am Samara and you are welcome to my profile😄</h2>
 <div><label>Technology enthusiast and looking for new knowledge ❤️</label></div>
 <div><label>📌 Santa Catarina - Brazil</label></div>
+<div><label>🎓 Technologist Degree, System Analysis and Development</label></div>
+<div><label>🎓 Bachelor Degree, Software Engineering</label></div>
 <div><label>🎓 Postgraduate Lato Sensu - Specialization, Web Application Development</label></div>
 
 <h4>Contacts:</h4>
